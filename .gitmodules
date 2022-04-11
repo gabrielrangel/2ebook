@@ -1,0 +1,6 @@
+[submodule "2ebook-api"]
+	path = 2ebook-api
+	url = https://github.com/gabrielrangel/2ebook-api.git
+[submodule "2ebook-app"]
+	path = 2ebook-app
+	url = https://github.com/gabrielrangel/2ebook-app
